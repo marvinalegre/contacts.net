@@ -1,0 +1,33 @@
+html {
+  background-color: #e4e4e4;
+  font-size: 1.6rem;
+}
+
+input, label, button {
+  display: block;
+  font-size: 1rem;
+  margin: .2rem 0;
+}
+
+label {
+  margin-top: 1rem;
+}
+
+input:last-of-type {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  margin-top: .2rem;
+  background-color: gray;
+}
+
+span {
+  font-size: 1rem;
+  background-color: #e21c32;
+}
+
+.link {
+  display: block;
+}
